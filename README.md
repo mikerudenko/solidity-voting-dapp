@@ -1,3 +1,5 @@
+
+# 🗳️🗳️🗳️ Smart contract for voting app
 Example of a survey you may be asked when applying for a job with WEB3 for Junior.
 
 Solidity 0.8.15
